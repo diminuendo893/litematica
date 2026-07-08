@@ -6,6 +6,8 @@
 
 所有投影文件都可以在`Code`中找到。
 
+[投影目录]()
+
 ## 上传文件
 
 （建议搭配AI使用。）
@@ -15,3 +17,7 @@
 你也可以在`Issues`中报告。
 
 如果你并非该结构的设计者，请保留原作者信息。
+
+## 💌 特别感谢
+
+![Contributors](https://contrib.rocks/image?repo=diminuendo893/litematica)
